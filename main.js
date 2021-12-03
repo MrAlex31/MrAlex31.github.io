@@ -7,7 +7,7 @@ let typewriter = new Typewriter(app, {
  
 typewriter
   .pauseFor(2500)
-  .typeString('El infierno chaqueño')
+  .typeString('El clima Chaqueño')
   .pauseFor(200)
   .deleteChars(10)
   .start();
